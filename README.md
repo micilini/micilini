@@ -34,5 +34,8 @@
 
 <p align="left">Todos os conteúdos existentes na plataforma fazem parte do meu acervo de estudos de tecnologia, que foram organizados e publicados no meu portal online 🤓</p>
 
+<br>
+
+
 
 
