@@ -36,6 +36,12 @@
 
 <br>
 
+<p float="left">
+<a href="https://micilini.com/conteudos/git-github"><img src="link-micilini-gitgithub.svg" width="280" /></a>
+<a href="https://micilini.com/conteudos/php"><img src="link-micilini-php.svg" width="280" /></a>
+<a href="https://micilini.com/conteudos/javascript"><img src="link-micilini-javascript.svg" width="280" /></a>
+<a href="https://micilini.com/conteudos/android"><img src="link-micilini-android.svg" width="280" /></a>
+</p>
 
 
 
