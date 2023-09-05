@@ -15,7 +15,7 @@
     </a>
 </p>
 
-<p align="center">Olá meu chamo William Lima, e atuo como Sênior FullStack Web e Mobile.</p>
+<p align="center">Olá meu chamo <a href="https://micilini.com/william-lima/">William Lima</a>, e atuo como <a href="https://micilini.com/william-lima/">Sênior FullStack Web e Mobile</a>.</p>
 <p align="center">Graduado em Tecnologia da Informação, trabalho desenvolvendo aplicações Web e Mobile desde 2012.</p>
 
 <p align="center">
