@@ -4,11 +4,14 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/micilini?tab=repositories">
-      <img alt="GitHub Repositórios" src="https://img.shields.io/badge/Repositórios-36-blue" />
-    </a>
     <a href="https://micilini.com/">
       <img alt="GitHub Repositórios" src="https://img.shields.io/badge/Site-micilini.com-green" />
+    </a>
+    <a href="https://github.com/micilini?tab=repositories">
+      <img alt="Visitas Mensais" src="https://img.shields.io/badge/Visitas Mensais-2k-violet" />
+    </a>
+    <a href="https://github.com/micilini?tab=repositories">
+      <img alt="GitHub Repositórios" src="https://img.shields.io/badge/Repositórios-36-blue" />
     </a>
 </p>
 
