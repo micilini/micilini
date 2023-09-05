@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://github.com/micilini/micilini/blob/main/logo_micilini_github.svg" align="center" alt="Logo da Micilini" />
+ <img width="200px" src="https://github.com/micilini/micilini/blob/main/logo_micilini_github.svg" align="center" alt="Logo da Micilini" />
  <h2 align="center">Bem-vindo à Micilini</h2>
 </p>
 
@@ -17,9 +17,14 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/william-lima-dev/">
-      <img alt="meu Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img alt="Meu Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://micilini.com/william-lima">
+      <img alt="Meu Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
     </a>
 </p>
+
+
 
 # Conteúdos Sobre Programação 📚 <!-- omit in toc -->
 
