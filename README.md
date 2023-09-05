@@ -43,5 +43,14 @@
 <a href="https://micilini.com/conteudos/android"><img src="link-micilini-android.svg" width="190" /></a>
 </p>
 
+# 💖 Apoie o projeto
 
+Se você gostou do nosso conteúdo publicado no portal, saiba ele é inteiramente gratuito e não usamos propaganda (Adsense) em nenhuma de nossas páginas, para que a sua experiencia de aprendizado seja a melhor possível 🥳🥳🥳
 
+Portanto não deixe de nos apoiar, seja compartilhando em sua rede social favorita ou mostrando para seus amigos.
+
+Obrigado ❤️
+
+***
+
+Novos contribuidores serão bem vindos! 👋
